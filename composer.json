@@ -1,0 +1,14 @@
+{
+    "name": "kcko/hello",
+    "type": "library",
+    "description": "for testing purposes",
+    "keywords": ["test"],
+    "homepage": "https://rjwebdesign.cz",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kcko",
+            "role": "Developer"
+        }
+    ],
+}
