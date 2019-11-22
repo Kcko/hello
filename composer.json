@@ -2,13 +2,13 @@
     "name": "kcko/hello",
     "type": "library",
     "description": "for testing purposes",
-    "keywords": ["test"],
+    "keywords": ["test", "super test", "packagist"],
     "homepage": "https://rjwebdesign.cz",
     "license": "MIT",
     "authors": [
         {
             "name": "Kcko",
-            "role": "Developer"
+            "role": "Developer v topu"
         }
     ]
 }
